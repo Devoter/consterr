@@ -1,0 +1,2 @@
+# consterr
+Constant go errors
